@@ -22,6 +22,7 @@ public class selenium_SRL
 {
   //  private static WebDriver driver;
 
+    
     //WebDriver driver = new RemoteWebDriver("http://localhost:9515", DesiredCapabilities.chrome());
 
     @BeforeClass
