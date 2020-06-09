@@ -1,4 +1,4 @@
-package com.mf.seleniumsrl;
+//package com.mf.seleniumsrl;
 
 
 
@@ -18,7 +18,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class selenium_SRL
+public class selenium_Test
 {
   //  private static WebDriver driver;
 
