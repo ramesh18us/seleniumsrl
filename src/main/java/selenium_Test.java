@@ -47,7 +47,7 @@ public class selenium_Test
     {
         //driver.navigate().to("http://www.hpe.com");
 
-        System.setProperty("webdriver.chrome.driver", "D:\\temp\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\temp\\chromedriver\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 
